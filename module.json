@@ -1,0 +1,11 @@
+{
+  "name": "roll-saver",
+  "title": "Roll saver",
+  "description": "Saves the latest rolls in chat to game state.",
+  "author": "kyledavidady",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.7.0",
+  "scripts": [
+    "scripts/chatHook.js"
+  ]
+}
